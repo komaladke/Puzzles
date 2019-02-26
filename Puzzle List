@@ -1,0 +1,50 @@
+Puzzle 1 : Measure 45 minutes using two non identical wires
+           There are 2 non identical wires and each is taking half hour to burn completely.
+           Calculate 45 minutes usinf given 2 wires.
+           
+Solution : Light up first wire from one end and let it burn completely. 
+           It will take 30 minutes to burn completely.
+           Afte that burn second wire from both the ends.
+           It will take 15 minutes to burn completely.
+           so 30 + 15 = 45 minutes.
+           
+           
+Puzzle 2 : Cut the cake in 8 equal parts in minimum cuts.
+           How many cut we need to cut?
+             
+Solution : Minimum 3 cuts
+           
+           Way 1 : 
+           First cut in middle of th cake.
+           Second half the cake.
+           Third another half cut.
+           
+           Way 2 : 
+           Cut the cake in half.
+           put first half on other half and cut from the middle.
+           put 2 new half on other and make a cut.
+           
+           
+Puzzle 3 : 
+Solution : 
+
+Puzzle 4 : 
+Solution : 
+
+Puzzle 5 : 
+Solution : 
+           
+Puzzle 6 : 
+Solution :            
+
+Puzzle 7 : 
+Solution : 
+           
+Puzzle 8 : 
+Solution :            
+ 
+Puzzle 9 : 
+Solution :  
+
+Puzzle 10 : 
+Solution : 
